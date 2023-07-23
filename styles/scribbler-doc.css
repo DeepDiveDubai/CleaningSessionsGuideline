@@ -21,6 +21,7 @@ html, body {
   color: var(--primary-color);
   font-size: 1.4em;
   grid-column: 2;
+  min-width: 450px;
 }
 
 .logo__thin {
