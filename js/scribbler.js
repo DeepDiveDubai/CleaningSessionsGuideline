@@ -14,14 +14,14 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Cleaning Sessions Guideline
 
-This document is prepared for cleaning operations in DDD. If you need more information you can reach Nevcan or Richard to get more.
+This document is prepared for cleaning operations in DDD. If you need more information you can reach Nevcan or Richard.
 
 # CHAPTERS
 
 - Roles
 - General Diving Rules
 - Equipment & Installation
-- How to vacuum
+- Vacuuming
 - General Rules`;
   var speed = 60;
 
