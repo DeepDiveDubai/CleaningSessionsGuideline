@@ -14,15 +14,17 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Cleaning Sessions Guideline
 
-This document is prepared for cleaning operations in DDD. If you need more information you can reach Nevcan or Richard.
+This document is designed for guiding cleaning operations in DDD. If you need more information you can reach Nevcan, Jake or Richard.
 
 # CHAPTERS
 
+- For Beginers
 - Roles
 - General Diving Rules
 - Equipment & Installation
-- Vacuuming
-- General Rules`;
+- Vacuuming & Cleaning Types
+- Dive Plans
+- General Session Rules`;
   var speed = 60;
 
   function typeItOut () {

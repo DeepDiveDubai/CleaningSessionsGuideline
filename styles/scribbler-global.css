@@ -311,3 +311,24 @@ table td:first-child {
     transform: translate3d(0,0,0);
   }
 }
+
+#valve-positions {
+  display: flex;
+}
+
+#valve-positions figure {
+  max-width: 40%;
+}
+
+#valve-positions img {
+  width: 100%;
+}
+
+#valve-positions figcaption {
+  text-align: center;
+}
+
+th {
+  font-weight: bold !important;
+  background-color: var(--bg-color) !important;
+}

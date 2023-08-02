@@ -1,8 +1,11 @@
 /* nav specialized to landing page */
 .logo {
+  margin: 1rem 0 0 1rem;
+}
+
+.logo.has-ddd {
   background: url('../images/deep-dive-dubai-retina-logo-1.png') no-repeat;
   background-size: contain;
-  margin: 1rem 0 0 1rem;
 }
 
 nav {
