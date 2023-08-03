@@ -18,7 +18,7 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 
 # CHAPTERS
 
-- For Beginers
+- For Beginners
 - Roles
 - General Diving Rules
 - Equipment & Installation
