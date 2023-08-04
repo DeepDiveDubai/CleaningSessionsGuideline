@@ -25,7 +25,7 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 - Vacuuming & Cleaning Types
 - Dive Plans
 - General Session Rules`;
-  var speed = 60;
+  var speed = 20;
 
   function typeItOut () {
     if (i < txt.length) {
@@ -37,6 +37,36 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 
   setTimeout(typeItOut, 1800);
 }
+
+if (document.getElementsByClassName('dimitris-schedule').length > 0) {
+  var i = 0;
+  var txt = `Old Plan 
+
+# BEST CASE SENARIO
+
+- There are ~50 spots need to clean in the pool
+- Each spot getting dirt in 2-3 days again (nowadays it takes 1 day)
+==> 7/2.5x50 = 140 spots should be clean per week
+
+- If we use 4 divers for 4 slot per day and each diver cleans one full spot (realistic for limited staff)
+==> 16 spot/day get clean
+==> 112 spot/week get clean
+
+140 > 112 so even if we close the pool for a week and start cleaning it in all sessions for a week, the pool will not be clean at the end of a week.
+`;
+  var speed = 20;
+
+  function typeItOut () {
+    if (i < txt.length) {
+      document.getElementsByClassName('dimitris-schedule')[0].innerHTML += txt.charAt(i);
+      i++;
+      setTimeout(typeItOut, speed);
+    }
+  }
+
+  setTimeout(typeItOut, 1800);
+}
+
 
 // toggle tabs on codeblock
 window.addEventListener("load", function() {
