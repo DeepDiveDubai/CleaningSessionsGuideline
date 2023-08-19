@@ -324,7 +324,7 @@ table td:first-child {
   width: 100%;
 }
 
-#valve-positions figcaption {
+figcaption {
   text-align: center;
 }
 

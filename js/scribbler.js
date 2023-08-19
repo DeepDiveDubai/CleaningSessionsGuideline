@@ -20,11 +20,12 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 
 - For Beginners
 - Roles
-- General Diving Rules
+- Terms
 - Equipment & Installation
 - Vacuuming & Cleaning Types
 - Dive Plans
-- General Session Rules`;
+- General Diving Rules
+- New Ideas`;
   var speed = 20;
 
   function typeItOut () {
