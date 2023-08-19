@@ -20,7 +20,7 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 
 - For Beginners
 - Roles
-- Terms
+- Terminology
 - Equipment & Installation
 - Vacuuming & Cleaning Types
 - Dive Plans
