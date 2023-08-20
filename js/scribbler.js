@@ -25,7 +25,8 @@ This document is designed for guiding cleaning operations in DDD. If you need mo
 - Vacuuming & Cleaning Types
 - Dive Plans
 - General Diving Rules
-- New Ideas`;
+- New Ideas
+- Collecting Water Samples`;
   var speed = 20;
 
   function typeItOut () {
